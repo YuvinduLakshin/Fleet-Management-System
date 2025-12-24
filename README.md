@@ -8,7 +8,6 @@ class Vehicle {
     private String id;  
     private double mileage;  
     private double fuel;  
-   
     public Vehicle(String id, double mileage, double fuel) {  
      this.id = id;  
      this.mileage = mileage;  
